@@ -1,0 +1,14 @@
+CHAT_DEFAULT_IMAGE_PATH=src\\Save\\images\\defaultProfileImage\\groupChat.png
+CHAT_IMAGE_PATH=src\\Save\\images\\chats\\
+TWEET_IMAGE_PATH=src\\Save\\images\\tweets\\
+USER_IMAGE_PATH=src\\Save\\images\\
+USER_DEFAULT_IMAGE_PATH1=src\\Save\\images\\defaultProfileImage\\defaultProfile60.png
+USER_DEFAULT_IMAGE_PATH2=src\\Save\\images\\defaultProfileImage\\defaultProfile100.png
+MESSAGE_PATH=src\\Save\\messages\\
+TWEET_PATH=src\\Save\\Tweets\\
+COMMENT_PATH=src\\Save\\comments\\
+CHAT_PATH=src\\Save\\Chats\\
+USER_PATH=src\\Save\\Users\\
+EVENT_PATH=src\\Save\\events\\
+EVENT_PATH_ID_COUNTER=src\\Save\\id\\events.json
+

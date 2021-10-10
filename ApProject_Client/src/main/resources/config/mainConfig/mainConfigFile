@@ -1,0 +1,3 @@
+portsPath=src\\main\\resources\\config\\serverAddress\\address
+imagePath=src\\main\\resources\\config\\images\\imagesPath
+paths=src\\main\\resources\\config\\jsonPath\\paths
